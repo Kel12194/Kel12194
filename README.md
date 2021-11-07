@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kel12194
-- 👀 I’m interested in Python programming
-- 🌱 I’m currently a beginner learning Python
-- 💞️ I’m looking to collaborate on anything concerning Python
+- 👀 I’m interested in Flutter programming
+- 🌱 I’m currently a beginner learning Flutter
+- 💞️ I’m looking to collaborate on anything concerning Flutter
 - 📫 How to reach me duchekelvin39@gmail.com
